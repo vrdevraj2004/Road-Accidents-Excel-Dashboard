@@ -2,6 +2,8 @@ PROJECT OVERVIEW
 
 This project was developed to demonstrate practical data analysis using Microsoft Excel. The goal was to work through the full lifecycle of a data project, starting with an unstructured accident dataset and ending with an interactive dashboard that highlights key trends and patterns related to road safety.
 
+NOTE: Due to the large size of the original dataset and working files, a sample set of data was used for this demonstration.
+
 DATASET SUMMARY
 
 The dataset consists of detailed records of road traffic accidents, including information on location, environmental conditions, road characteristics, time of occurrence, vehicle involvement, and casualty counts. These variables enable analysis of accident frequency, severity levels, and the influence of external factors such as weather, lighting, and speed limits.
